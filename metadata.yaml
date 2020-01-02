@@ -1,0 +1,33 @@
+_repo: OgSon-of-Fire_61061
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+creator:
+  author:
+    agent_name: Crump, Irving
+    aliases:
+    - Crump, James Irving
+    - Crump, J. Irving (James Irving)
+    birthdate: 1887
+    deathdate: 1979
+    gutenberg_agent_id: '34618'
+    url: http://www.gutenberg.org/2009/agents/34618
+description: ''
+gutenberg_issued: '2019-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Og—Son of Fire
+url: http://www.gutenberg.org/ebooks/61061
